@@ -1,0 +1,49 @@
+form {
+  margin-top: 130px;
+  margin-left: 10px;
+}
+
+.w-city {
+  color: gray;
+  font-size: smaller;
+  margin-left: 10px;
+  margin-bottom: 0px;
+  margin-top: 0px;
+  padding: 0px;
+}
+
+.current-city {
+  font-size: larger;
+  color: grey;
+  margin-left: 10px;
+  text-transform: capitalize;
+}
+
+.w-forecast {
+  font-size: x-small;
+  color: grey;
+  margin-left: 10px;
+}
+
+.w-C-F {
+  font-size: smaller;
+}
+
+.w-precioitation {
+  font-size: 10px;
+  margin-left: 10px;
+}
+
+.w-temp {
+  font-size: 28px;
+  margin-left: 10px;
+}
+
+.w-precioitation {
+  font-size: 10px;
+  color: grey;
+}
+
+input {
+  margin-left: 10px;
+}
